@@ -8,8 +8,6 @@ public class main_1228 {
         String str = "Good  morning,Jacky01!";
         //sc.nextLine();
         String ns ="";
-        StringBuilder sb = new StringBuilder();
-        int from = 0 ,to = 0;
         char[] c = new char[100];
         int pos = 0;
         for(int i=0;i<str.length();i++)
